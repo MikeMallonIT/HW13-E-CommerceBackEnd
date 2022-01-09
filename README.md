@@ -24,13 +24,13 @@ This application was the first step twards a true client/ server web application
 Download all associated files in this repository. Install Node.js then use the `npm install` function. After that, CD to the directory the root application folder is installed in and use the `npm start` function.
 
 ### See screenshots for assistance with install and functionality:
-- [Run](https://github.com/MikeMallonIT/HW12-EmployeeTracker/blob/main/Assets/cliRun.png?raw=true)
+- [Run](https://raw.githubusercontent.com/MikeMallonIT/HW13-E-CommerceBackEnd/main/HW13.png)
 
 <br>
 
 ### See project tutorials:
-- [Part 1](https://watch.screencastify.com/v/a1t8RBkuzttGPyvzNURI)
-- [Part 2](https://watch.screencastify.com/v/StHfwLmEg6aSd32cBGwP)
+- [Part 1](https://watch.screencastify.com/v/gja52gmuj4hATUvcsSrN)
+- [Part 2](https://watch.screencastify.com/v/NXxXeqNb7YQXBXsFqKB5)
 
 <br />
 
