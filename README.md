@@ -2,27 +2,26 @@
 
 ## What I did
 
-This week I used My SQL to build a database and application that modifies the database from the CLI. The Employee tracker uses node.js to run JavaScript in the command line and inquirer to ask users for information
-
+This week I used Express.js to build an E-Comerce back end database with an API for the Insomnia client to interact with. I built Models and Routes to organize and serve up the data stored in an SQL database. I wrote PUSH, PUT, GET and DELETE routes for modifying the three different types of data. 
 
 <br>
 
 ### Motivation:
-This application was a great refresher on SQL. Database is one of the key aspects of fullstack and this assignment helped me better understand how JavaScript interacts with databases
+This application was the first step twards a true client/ server web application. I practiced my ability to write node js syntax
 
 <br>
 
 ### Problems I solved:
-    * Built appropriate file system 
-    * Used inquirer to request user input in the CLI
-    * Built SQL Database with multiple tables
-    * Called various SQL functions to add, change and delete data
+    * Built Models for standaized data types
+    * Built routes to serve data from server-sied SQL database
+    * Used Insomnia as front end client
+    * Modified index.js file in models folder so models can reference eachother
 
 <br />
 <br />
 
 ## Installation:
-Download all associated files in this repository. Install Node.js then use the `npm install` function. After that, CD to the directory the root application folder is installed in and use the `node index.js` function.
+Download all associated files in this repository. Install Node.js then use the `npm install` function. After that, CD to the directory the root application folder is installed in and use the `npm start` function.
 
 ### See screenshots for assistance with install and functionality:
 - [Run](https://github.com/MikeMallonIT/HW12-EmployeeTracker/blob/main/Assets/cliRun.png?raw=true)

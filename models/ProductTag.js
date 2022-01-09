@@ -4,6 +4,7 @@ const sequelize = require('../config/connection');
 
 class ProductTag extends Model {}
 
+// Initialize the product tag. This allows for tag and product primary key values. (A product can have many associated tags)
 ProductTag.init(
   {
     id: {
