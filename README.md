@@ -24,7 +24,7 @@ This application was the first step twards a true client/ server web application
 Download all associated files in this repository. Install Node.js then use the `npm install` function. After that, CD to the directory the root application folder is installed in and use the `npm start` function.
 
 ### See screenshots for assistance with install and functionality:
-- [Run](https://raw.githubusercontent.com/MikeMallonIT/HW13-E-CommerceBackEnd/main/HW13.png)
+- [Run](https://raw.githubusercontent.com/MikeMallonIT/HW13-E-CommerceBackEnd/main/HW_13.png)
 
 <br>
 
